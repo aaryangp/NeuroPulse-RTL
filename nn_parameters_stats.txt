@@ -1,0 +1,11 @@
+Quantization Statistics
+==================================================
+
+Format: Q7.8 (16-bit signed)
+Scale Factor: 256
+Representable Range: [-128.0000, 127.9961]
+
+W1 range: [-446, 251]
+b1 range: [-47, 81]
+W2 range: [-314, 223]
+b2 range: [-15, -15]
